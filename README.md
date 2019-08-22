@@ -1,4 +1,4 @@
-# Aprendizado de Máquina passo a passo com python
+# Aprendizado de Máquina com Python
 Adriano Sanick Padilha e José Carlos Bins Filho
 
 ## 3 - Regressão Linear

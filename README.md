@@ -1,23 +1,18 @@
 # Aprendizado de Máquina com Python
 Adriano Sanick Padilha e José Carlos Bins Filho
 
-
-
-<a href='https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf'>  <img src='ML_MEDIUM.jpeg' /></a>
-
-# Métricas
+# 1 - Métricas
 ## Métricas de Erro
-### Metricas.ipynb
+### 11_Metricas.ipynb
 - MAE e RMSE - Qual métrica é melhor?
 
 ## Validação cruzada K-Fold
-### K_Fold.ipynb
+### 12_K_Fold.ipynb
+- O K-Fold CV é um método  que divide um conjunto de dados em um número K de seções / dobras, onde cada dobra é usada como um conjunto de testes em algum momento. 
 
 
 ## 3 - Regressão Linear
 ### 31_RegressaoLinear.ipynb
-- O K-Fold CV é um método  que divide um conjunto de dados em um número K de seções / dobras, onde cada dobra é usada como um conjunto de testes em algum momento. 
-
 - Apresenta um passo a passo para contrução de um modelo de regressão linear utilizando como exemplo o *Dataset* **"USA_Housing.csv"** extraído do site www.kaggle.com. Também é discutido as métricas de avaliação para este modelo.
 
 ### 32_ExercicioRegressaoLinear.ipynb

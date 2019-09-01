@@ -6,7 +6,10 @@ Adriano Sanick Padilha e José Carlos Bins Filho
 <a href='https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf'>  <img src='ML_MEDIUM.jpeg' /></a>
 
 # Métricas
-### **MAE e RMSE - Qual métrica é melhor?**
+## Métricas de Erro
+### Metricas.ipynb
+**MAE e RMSE - Qual métrica é melhor?**
+
 
 ## 3 - Regressão Linear
 ### 31_RegressaoLinear.ipynb

@@ -11,7 +11,7 @@ Adriano Sanick Padilha e José Carlos Bins Filho
 - O K-Fold CV é um método  que divide um conjunto de dados em um número K de seções / dobras, onde cada dobra é usada como um conjunto de testes em algum momento. 
 
 
-## 3 - Regressão Linear
+# 3 - Regressão Linear
 ### 31_RegressaoLinear.ipynb
 - Apresenta um passo a passo para contrução de um modelo de regressão linear utilizando como exemplo o *Dataset* **"USA_Housing.csv"** extraído do site www.kaggle.com. Também é discutido as métricas de avaliação para este modelo.
 

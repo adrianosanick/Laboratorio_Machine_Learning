@@ -1,6 +1,12 @@
 # Aprendizado de Máquina com Python
 Adriano Sanick Padilha e José Carlos Bins Filho
 
+
+
+<a href='https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf'>  <img src='ML_MEDIUM.jpeg' /></a>
+
+
+
 ## 3 - Regressão Linear
 ### 31_RegressaoLinear.ipynb
 

@@ -8,7 +8,7 @@ Adriano Sanick Padilha e José Carlos Bins Filho
 # Métricas
 ## Métricas de Erro
 ### Metricas.ipynb
-**MAE e RMSE - Qual métrica é melhor?**
+- MAE e RMSE - Qual métrica é melhor?
 
 
 ## 3 - Regressão Linear

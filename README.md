@@ -20,3 +20,6 @@ Adriano Sanick Padilha e José Carlos Bins Filho
 
 ### 33_SolucaoRegressaoLinear.ipynb
 - Solução para o exercício proposto.
+
+### 34_ValidacaoCruzada.ipynb
+- Validação do modelo apresentado no programa 31_RegressaoLinear.ipynb.
